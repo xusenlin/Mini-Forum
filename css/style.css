@@ -1,0 +1,21 @@
+.navbar{
+    border-radius: 0px;
+}
+.tooltip{
+    display: none;
+    width: 45px;
+    left: 0px;
+    bottom: -28px;
+}
+
+.navbar-right li a:hover>.tooltip{
+    display: block;
+    opacity: 1;
+}
+.mt20{
+    margin-top: 20px;
+}
+
+.btn_box{
+    width: 170px;
+}
